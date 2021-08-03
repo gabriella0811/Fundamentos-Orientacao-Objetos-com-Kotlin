@@ -1,0 +1,9 @@
+package one.digitalinnovation.digionebank.testes
+
+import one.digitalinnovatioo.digionebank.Logavel
+
+class TesteAutenticacao {
+
+	fun autentica(logavel: Logavel) = logavel.login()
+
+}
