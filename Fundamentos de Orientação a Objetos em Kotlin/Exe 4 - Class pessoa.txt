@@ -1,0 +1,16 @@
+@@ -0,0 +1,13 @@
+package one.digitalinnovation.digionebank
+
+class Pessoa {
+    var nome: String = "Gabriella"
+    var cpf: String = "123.555.888-11"
+ 
+}
+
+fun main() {
+    val Gabriella  = Pessoa()
+
+    println(Gabriella.nome)
+    println(Gabriella.cpf)
+
+}
